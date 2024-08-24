@@ -22,9 +22,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+![submission](https://github.com/user-attachments/assets/3beaa122-ddf5-4a2b-902b-9348c3c42589)
 <!-- Replace this with whatever GIF tool you used! -->
 
 GIF created with LiceCap
